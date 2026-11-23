@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Scot Roads Live</string>
+    <string name="tab_list">Situations</string>
+    <string name="tab_nearby">Nearby</string>
+    <string name="tab_map">Map</string>
+    <string name="search_hint">Search by road (e.g. M8, A9) or place</string>
+    <string name="filter_all">All</string>
+    <string name="filter_incidents">Incidents</string>
+    <string name="filter_roadworks">Roadworks</string>
+    <string name="refresh">Refresh now</string>
+    <string name="update_interval">Auto-update interval</string>
+    <string name="legend">Colour and icon key</string>
+    <string name="about">About and data source</string>
+    <string name="select_prompt">Select a situation from the list or map to see its details here.</string>
+    <string name="show_on_map">Show on map</string>
+    <string name="show_results_on_map">Show these on the map</string>
+    <string name="use_my_location">Use my location</string>
+    <string name="or_choose_place">Or search from a fixed place:</string>
+    <string name="no_results">No situations match.</string>
+    <string name="map_all">All</string>
+    <string name="map_list">Search results</string>
+    <string name="map_nearby">Nearby</string>
+    <string name="acknowledgement">Contains Traffic Scotland data</string>
+    <string name="close">Close</string>
+</resources>

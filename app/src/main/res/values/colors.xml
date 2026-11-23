@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand">#FF0B4F8A</color>
+    <color name="brand_dark">#FF06345C</color>
+    <color name="accent">#FFFFB300</color>
+    <color name="banner_ok">#FFE3F2FD</color>
+    <color name="banner_ok_text">#FF0D47A1</color>
+    <color name="banner_offline">#FFFFEBEE</color>
+    <color name="banner_offline_text">#FFB71C1C</color>
+    <color name="divider">#1F000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>

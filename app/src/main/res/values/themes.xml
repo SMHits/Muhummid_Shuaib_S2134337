@@ -1,0 +1,20 @@
+<resources>
+    <style name="Theme.Muhummid_Shuaib_S2134337" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/brand</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">#FFD3E4F7</item>
+        <item name="colorOnPrimaryContainer">@color/brand_dark</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryContainer">#FFFFE8B3</item>
+        <item name="android:statusBarColor">@color/brand_dark</item>
+    </style>
+    <style name="ToolbarTheme" parent="ThemeOverlay.Material3.Dark.ActionBar" />
+    <style name="DetailLabel">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:layout_marginTop">10dp</item>
+    </style>
+</resources>
